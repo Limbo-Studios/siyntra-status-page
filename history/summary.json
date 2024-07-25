@@ -4,19 +4,19 @@
     "url": "https://auth.siyntrastudios.com/api/yggdrasil/sessionserver",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntra-yggdrasil-multiplayer-session-service",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 426,
-    "timeDay": 426,
-    "timeWeek": 426,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "status": "up",
+    "uptime": "72.48%",
+    "uptimeDay": "72.48%",
+    "uptimeWeek": "72.48%",
+    "uptimeMonth": "72.48%",
+    "uptimeYear": "72.48%",
+    "time": 406,
+    "timeDay": 406,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntra-yggdrasil-authserver",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "72.46%",
+    "uptimeDay": "72.46%",
+    "uptimeWeek": "72.46%",
+    "uptimeMonth": "72.46%",
+    "uptimeYear": "72.46%",
     "time": 160,
     "timeDay": 160,
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntra-skins",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "75.70%",
+    "uptimeDay": "75.70%",
+    "uptimeWeek": "75.70%",
+    "uptimeMonth": "75.70%",
+    "uptimeYear": "75.70%",
     "time": 156,
     "timeDay": 156,
     "timeWeek": 156,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntra-s-yggdrasil-public-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "75.70%",
+    "uptimeDay": "75.70%",
+    "uptimeWeek": "75.70%",
+    "uptimeMonth": "75.70%",
+    "uptimeYear": "75.70%",
     "time": 176,
     "timeDay": 176,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://auth.siyntrastudios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntraauth-website",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "status": "up",
+    "uptime": "72.51%",
+    "uptimeDay": "72.51%",
+    "uptimeWeek": "72.51%",
+    "uptimeMonth": "72.51%",
+    "uptimeYear": "72.51%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://auth.siyntrastudios.com/api/yggdrasil/sessionserver/session/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siyntrastudios.com.ico",
     "slug": "siyntra-minecraft-profile",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "75.73%",
+    "uptimeDay": "75.73%",
+    "uptimeWeek": "75.73%",
+    "uptimeMonth": "75.73%",
+    "uptimeYear": "75.73%",
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 107
     }
   },
   {
