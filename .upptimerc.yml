@@ -4,26 +4,26 @@ repo: siyntra-status-page # The name of this repository
 
 sites:
   - name: Siyntra Yggdrasil Multiplayer Session Service
-    url: https://auth.siyntrastudios.com/api/yggdrasil/sessionserver
+    url: https://auth.siyntrastudios.com/session
     expectedStatusCodes:
       - 404
   - name: Siyntra Yggdrasil Authserver
-    url: https://auth.siyntrastudios.com/api/yggdrasil
+    url: https://auth.siyntrastudios.com/auth
     expectedStatusCodes:
       - 200
   - name: Siyntra Skins
-    url: https://auth.siyntrastudios.com/texture
+    url: https://auth.siyntrastudios.com/drasl/texture
     expectedStatusCodes:
-      - 405
+      - 404
   - name: "Siyntra's Yggdrasil Public API"
-    url: https://auth.siyntrastudios.com/api/yggdrasil
+    url: https://auth.siyntrastudios.com/auth
   - name: Siyntraauth Website
     url: https://auth.siyntrastudios.com/
     expectedStatusCodes:
       - 200
       - 200
   - name: Siyntra Minecraft Profile
-    url: https://auth.siyntrastudios.com/api/yggdrasil/sessionserver/session/minecraft/profile
+    url: https://auth.siyntrastudios.com/session/minecraft/profile
     expectedStatusCodes:
       - 404
   - name: Xbox Live Gatekeeper
