@@ -1,7 +1,7 @@
 url: https://auth.siyntrastudios.com/api/yggdrasil
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2024-07-26T07:44:49.048Z
+status: down
+code: 404
+responseTime: 91
+lastUpdated: 2024-07-26T08:00:29.345Z
 startTime: 2024-07-24T22:46:04.479Z
 generator: Upptime <https://github.com/upptime/upptime>
