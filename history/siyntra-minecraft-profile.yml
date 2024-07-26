@@ -1,7 +1,7 @@
-url: https://auth.siyntrastudios.com/api/yggdrasil/sessionserver/session/minecraft/profile
+url: https://auth.siyntrastudios.com/session/minecraft/profile
 status: up
 code: 404
-responseTime: 146
-lastUpdated: 2024-07-25T23:13:26.165Z
+responseTime: 119
+lastUpdated: 2024-07-26T08:12:00.797Z
 startTime: 2024-07-24T21:54:22.946Z
 generator: Upptime <https://github.com/upptime/upptime>
