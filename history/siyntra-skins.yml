@@ -1,7 +1,7 @@
 url: https://auth.siyntrastudios.com/drasl/texture
-status: up
-code: 404
-responseTime: 84
-lastUpdated: 2024-07-29T23:11:21.762Z
+status: down
+code: 502
+responseTime: 120
+lastUpdated: 2024-07-30T15:57:56.795Z
 startTime: 2024-07-24T21:54:21.295Z
 generator: Upptime <https://github.com/upptime/upptime>
