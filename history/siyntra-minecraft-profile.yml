@@ -1,7 +1,7 @@
 url: https://auth.siyntrastudios.com/session/minecraft/profile
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-12T17:19:36.065Z
+status: up
+code: 404
+responseTime: 113
+lastUpdated: 2025-01-12T18:28:38.225Z
 startTime: 2024-07-24T21:54:22.946Z
 generator: Upptime <https://github.com/upptime/upptime>
