@@ -1,7 +1,7 @@
 url: https://auth.siyntrastudios.com/auth
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-12T17:18:32.426Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2025-01-12T18:28:33.614Z
 startTime: 2024-07-24T21:54:21.885Z
 generator: Upptime <https://github.com/upptime/upptime>
